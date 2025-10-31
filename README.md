@@ -1,7 +1,8 @@
 💰 Daily Expense Tracker (React & Tailwind CSS)
 
 Live Demo 
-Click here to view the live, fully functional application: [https://expense-tracker-mu-two-19.vercel.app/]
+
+Click here to view the live, fully functional application: https://expense-tracker-mu-two-19.vercel.app/
 
 🎯 Project Overview:
 
