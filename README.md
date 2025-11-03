@@ -1,4 +1,5 @@
 💰 Daily Expense Tracker (React + Tailwind CSS)
+
 🔗 Live Demo
 
 Check out the fully functional app here:
