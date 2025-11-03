@@ -56,7 +56,9 @@ The codebase follows a clean, modular structure that keeps logic and UI clearly 
 
 src/
  ├── pages/         # Main pages like HomePage.jsx (state orchestrator)
- ├── components/    # All UI components (ExpenseForm, ExpenseList, etc.)
+ 
+ ├── components/    # All UI components (ExpenseForm, ExpenseList, etc
+ 
  └── services/      # Data service layer (expense-service.js)
 
 🧩 Core Implementation Details
